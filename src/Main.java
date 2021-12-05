@@ -47,7 +47,7 @@ public class Main {
         System.out.println("\nZad 2");
 
         Set<Integer> lista2 = new TreeSet<>();
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 10; i++) {
             System.out.println("Podaj liczbę");
             lista2.add(scanner.nextInt());
         }
